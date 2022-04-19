@@ -1,0 +1,2 @@
+export const EDIT_RESOURCE = 'EDIT_RESOURCE';
+export const EDIT_SELECTED_ID = 'EDIT_SELECTED_ID';

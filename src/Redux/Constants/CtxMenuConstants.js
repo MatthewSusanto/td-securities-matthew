@@ -1,0 +1,1 @@
+export const SET_VIEW_EDIT_TYPE = 'SET_VIEW_EDIT_TYPE';
